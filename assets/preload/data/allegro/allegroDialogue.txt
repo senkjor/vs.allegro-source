@@ -1,0 +1,31 @@
+:al5:Aha! Finally you are here my friend! Welcome, welcome!
+:al2:It is so good to see you! How was you trip here?
+:bf:beep
+:al1:...
+:al2:I see.
+:same:That's good! Swear words are not necessary tho but it's good!
+:same:Well that is okay, because that is not what matters most!
+:al5:What matters most is that you are here at last!
+:al4:Welcome to METRONOPOLIS! The city that is alive by pure musical enthusiasm!
+:al2:My name is ALLEGRO! METRONOPOLIS' Street performer!
+:same:And also I am one of the public service robots of this city!
+:same:Our job is to keep even the furthest corners of this town follow the one and only beat!
+:al3:We all are connected to the City's inner METRONOME.
+:al2:So you can say we are the proof that this town is alive, as well as a reason why. 
+:same:And we do guide tours around the town as well!
+:same:I don't usually give tours to the non-locals, but when we were told you're on your way here...
+:al5:I couldn't miss a chance to be your guide for today!
+:al2:So, let us get going around this beautiful town!
+:same:We have so little time until your departure in the evening!
+:bf:boop beep
+:al1:Mm?
+:al2:Yes, I can sing. I am a street performer, after all!
+:same:Why do you ask?
+:bf:beep boop
+:al2:Battle?
+:bf:...
+:al7:Well, I don't know about going into battle, but I can sure sing you some songs for a duet.
+:same:We don't have that much time, but sure we can try!
+:same:Lets see if you can keep up with the harmonical structure of the song!
+:bf:beep!
+:al5:This is going to be exciting!

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="allegrotest.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AL down0000" x="0" y="0" width="712" height="994"/>
+	<SubTexture name="AL down0001" x="712" y="0" width="712" height="994"/>
+	<SubTexture name="AL down0002" x="1424" y="0" width="712" height="994"/>
+	<SubTexture name="AL down0003" x="2136" y="0" width="712" height="994"/>
+	<SubTexture name="AL down0004" x="2848" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0000" x="3560" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0001" x="4272" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0002" x="4984" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0003" x="5696" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0004" x="6408" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0005" x="7120" y="0" width="712" height="994"/>
+	<SubTexture name="AL idle0006" x="0" y="994" width="712" height="994"/>
+	<SubTexture name="AL idle0007" x="712" y="994" width="712" height="994"/>
+	<SubTexture name="AL idle0008" x="1424" y="994" width="712" height="994"/>
+	<SubTexture name="AL left0000" x="2136" y="994" width="712" height="994"/>
+	<SubTexture name="AL left0001" x="2848" y="994" width="712" height="994"/>
+	<SubTexture name="AL left0002" x="3560" y="994" width="712" height="994"/>
+	<SubTexture name="AL left0003" x="4272" y="994" width="712" height="994"/>
+	<SubTexture name="AL left0004" x="4984" y="994" width="712" height="994"/>
+	<SubTexture name="AL right0000" x="5696" y="994" width="712" height="994"/>
+	<SubTexture name="AL right0001" x="6408" y="994" width="712" height="994"/>
+	<SubTexture name="AL right0002" x="7120" y="994" width="712" height="994"/>
+	<SubTexture name="AL right0003" x="0" y="1988" width="712" height="994"/>
+	<SubTexture name="AL right0004" x="712" y="1988" width="712" height="994"/>
+	<SubTexture name="AL up0000" x="1424" y="1988" width="712" height="994"/>
+	<SubTexture name="AL up0001" x="2136" y="1988" width="712" height="994"/>
+	<SubTexture name="AL up0002" x="2848" y="1988" width="712" height="994"/>
+	<SubTexture name="AL up0003" x="3560" y="1988" width="712" height="994"/>
+	<SubTexture name="AL up0004" x="4272" y="1988" width="712" height="994"/>
+</TextureAtlas>

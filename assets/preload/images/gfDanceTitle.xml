@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="robot with effects0000" x="0" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0001" x="913" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0002" x="1826" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0003" x="2739" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0004" x="0" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0005" x="913" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0006" x="1826" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0007" x="2739" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0008" x="0" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0009" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0010" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0011" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0012" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0013" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0014" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0015" x="0" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0016" x="913" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0017" x="1826" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0018" x="2739" y="0" width="913" height="817"/>
+	<SubTexture name="robot with effects0019" x="0" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0020" x="913" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0021" x="1826" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0022" x="2739" y="817" width="913" height="817"/>
+	<SubTexture name="robot with effects0023" x="0" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0024" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0025" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0026" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0027" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0028" x="913" y="1634" width="913" height="817"/>
+	<SubTexture name="robot with effects0029" x="913" y="1634" width="913" height="817"/>
+</TextureAtlas>

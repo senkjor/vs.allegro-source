@@ -1,0 +1,17 @@
+:al6:Hey! Not bad at all! 
+:al7:Your improvisation skills are really good!
+:same:I am actually really surprised!
+:same:Though we should get going! We have so much to do! And we haven't even left this bridge!
+:bf:beep!
+:al2:We are not done yet?
+:bf:...
+:al1:...
+:al2:Yeah...maybe you are right, we have some time for more one song.
+:al6:But only one! Otherwise we won't have any time left until...
+:same:Uhm...
+:same:...City's closure for the night!
+:bf:beep?
+:al7:Yes, it closes the entrances during the night. 
+:same:So it is in our interest to finish the tour before that happens!
+:bf:beep!
+:al7:Okay, let's go!

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boxx2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Speech Bubble Normal Open0000" x="0" y="0" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0001" x="1308" y="0" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0002" x="2616" y="0" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0003" x="0" y="588" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0004" x="1308" y="588" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0005" x="2616" y="588" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0006" x="0" y="1176" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0007" x="1308" y="1176" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0008" x="2616" y="1176" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0009" x="0" y="1764" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0010" x="1308" y="1764" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0011" x="2616" y="1764" width="1308" height="588"/>
+	<SubTexture name="Speech Bubble Normal Open0012" x="0" y="2352" width="1308" height="588"/>
+</TextureAtlas>
