@@ -8,11 +8,12 @@ Special Thanks for the provided tools and help:
 
 [nickham13](https://gamebanana.com/members/1778332) -  FNF soundfont
 
-[Skavyy](https://twitter.com/skavyy) - Playtest and Pleythrough
+[Skavyy](https://twitter.com/skavyy) - Playtest 
 
 
 
 Based on the [Kade Engine v.1.6 by KadeDeveloper](kadedev.github.io/kade-engine/)
+
 
 Original FNF cool dudes:
 
