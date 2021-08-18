@@ -5,8 +5,11 @@ The Mod creator -- [SENKI](https://twitter.com/yalishenkjor)
 Special Thanks for the provided tools and help:
 
 [NyxTheShield](https://gamebanana.com/members/1679544) - MIDI2FNF Tool
+
 [nickham13](https://gamebanana.com/members/1778332) -  FNF soundfont
+
 [Skavyy](https://twitter.com/skavyy) - Playtest and Pleythrough
+
 
 
 Based on the [Kade Engine v.1.6 by KadeDeveloper](kadedev.github.io/kade-engine/)
