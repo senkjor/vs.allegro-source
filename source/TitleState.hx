@@ -131,8 +131,8 @@ class TitleState extends MusicBeatState
 			logoBl = new FlxSprite(-110, 1500);
 			logoBl.frames = Paths.getSparrowAtlas('allegroBumpin');
 		} else {
-			logoBl = new FlxSprite(-150, -100);
-			logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+			logoBl = new FlxSprite(-110, -100);
+			logoBl.frames = Paths.getSparrowAtlas('allegroBumpin');
 		}
 		if(FlxG.save.data.antialiasing)
 			{
@@ -378,22 +378,12 @@ class TitleState extends MusicBeatState
 			// credTextShit.text = 'In association \nwith';
 			// credTextShit.screenCenter();
 			case 5:
-				if (Main.watermarks)
 					createCoolText(['Kade Engine', 'by']);
-				else
-					createCoolText(['In Partnership', 'with']);
 			case 7:
-				if (Main.watermarks)
 					addMoreText('KadeDeveloper');
-				else
-				{
-					addMoreText('Newgrounds');
-					ngSpr.visible = true;
-				}
 			// credTextShit.text += '\nNewgrounds';
 			case 8:
 				deleteCoolText();
-				ngSpr.visible = false;
 			// credTextShit.visible = false;
 
 			// credTextShit.text = 'Shoutouts Tom Fulp';
